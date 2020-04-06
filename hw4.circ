@@ -398,7 +398,7 @@
       <a name="label" val="rdst"/>
     </comp>
     <comp lib="0" loc="(70,60)" name="Clock">
-      <a name="label" val="Clock"/>
+      <a name="label" val="clock"/>
     </comp>
     <comp lib="2" loc="(1220,670)" name="Multiplexer">
       <a name="width" val="16"/>
